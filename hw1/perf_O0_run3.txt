@@ -1,0 +1,20 @@
+# started on Thu Jun 11 22:02:37 2026
+
+
+ Performance counter stats for './hw1_O0':
+
+          3,034.35 msec task-clock:HGu                   #    0.999 CPUs utilized             
+                 0      context-switches:HGu             #    0.000 /sec                      
+                 0      cpu-migrations:HGu               #    0.000 /sec                      
+               570      page-faults:HGu                  #  187.849 /sec                      
+     9,625,957,848      cycles:HGu                       #    3.172 GHz                       
+    22,104,988,512      instructions:HGu                 #    2.30  insn per cycle            
+     1,068,463,399      branches:HGu                     #  352.123 M/sec                     
+         1,063,108      branch-misses:HGu                #    0.10% of all branches           
+
+       3.036822736 seconds time elapsed
+
+       3.025631000 seconds user
+       0.001993000 seconds sys
+
+
