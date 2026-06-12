@@ -6,7 +6,6 @@
 
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
 
 #ifndef N
 #define N 1024
@@ -24,24 +23,14 @@ void vm_multiply();
 void output();
 
 int main() {
-    int i;
-    struct timespec start, end;
-    double elapsed;
+	int i;
 
-    initialize();
-
-    clock_gettime(CLOCK_MONOTONIC, &start);
-    for (i=0; i<REPS; i++) {
-        vm_multiply();
-    }
-    clock_gettime(CLOCK_MONOTONIC, &end);
-
-    elapsed = (end.tv_sec - start.tv_sec) + (end.tv_nsec - start.tv_nsec) / 1e9;
-    printf("N=%d, REPS=%d, total time = %.6f sec, time per multiply = %.6f sec\n",
-           N, REPS, elapsed, elapsed / REPS);
-
-    output();
-    return 0;
+	initialize();
+	for (i=0; i<REPS; i++) {
+		vm_multiply();
+	}
+	output();
+	return 0;
 }
 
 void initialize() {

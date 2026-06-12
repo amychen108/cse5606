@@ -1,0 +1,26 @@
+# To display the perf.data header info, please use --header/--header-only options.
+#
+#
+# Total Lost Samples: 0
+#
+# Samples: 4K of event 'cycles:Pu'
+# Event count (approx.): 3204783723
+#
+# Overhead  Command  Shared Object         Symbol                 
+# ........  .......  ....................  .......................
+#
+    97.99%  hw1      hw1                   [.] vm_multiply
+     0.73%  hw1      libc.so.6             [.] __random
+     0.58%  hw1      libc.so.6             [.] __random_r
+     0.18%  hw1      hw1                   [.] rand@plt
+     0.18%  hw1      hw1                   [.] initialize
+     0.16%  hw1      [unknown]             [k] 0xffffffff8c20115e
+     0.13%  hw1      libc.so.6             [.] rand
+     0.02%  hw1      libc.so.6             [.] __run_exit_handlers
+     0.02%  hw1      [unknown]             [k] 0xffffffff8c2001c4
+     0.00%  hw1      ld-linux-x86-64.so.2  [.] dl_main
+
+
+#
+# (Tip: Show current config key-value pairs: perf config --list)
+#
