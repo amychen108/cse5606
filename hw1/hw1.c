@@ -6,8 +6,11 @@
 
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
 
-#define N 1024		// length of vector, length and width of matrix
+#ifndef N
+#define N 1024
+#endif		// length of vector, length and width of matrix
 #define SEED 1		// random number seed
 #define REPS 1000	// repetitions
 //#define OUT   	// output flag
@@ -21,14 +24,24 @@ void vm_multiply();
 void output();
 
 int main() {
-	int i;
+    int i;
+    struct timespec start, end;
+    double elapsed;
 
-	initialize();
-	for (i=0; i<REPS; i++) {
-		vm_multiply();
-	}
-	output();
-	return 0;
+    initialize();
+
+    clock_gettime(CLOCK_MONOTONIC, &start);
+    for (i=0; i<REPS; i++) {
+        vm_multiply();
+    }
+    clock_gettime(CLOCK_MONOTONIC, &end);
+
+    elapsed = (end.tv_sec - start.tv_sec) + (end.tv_nsec - start.tv_nsec) / 1e9;
+    printf("N=%d, REPS=%d, total time = %.6f sec, time per multiply = %.6f sec\n",
+           N, REPS, elapsed, elapsed / REPS);
+
+    output();
+    return 0;
 }
 
 void initialize() {
