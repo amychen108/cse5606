@@ -1,0 +1,80 @@
+Reading Profile files in profile.*
+
+NODE 0;CONTEXT 0;THREAD 0:
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0            9        6,078           1           1    6078440 .TAU application
+ 99.8            6        6,069           1           9    6069051 main 
+ 50.6        3,077        3,077           4           0     769371 pthread_join
+ 49.1        2,984        2,984           1           0    2984842 check_matrix 
+  0.0        0.165        0.165           4           0         41 pthread_create
+
+NODE 0;CONTEXT 0;THREAD 1:
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0            5        3,072           1           1    3072163 .TAU application
+ 99.8            5        3,066           1           1    3066418 [PTHREAD] worker 
+ 99.6        0.009        3,060           1           1    3060571 worker 
+ 99.6        3,060        3,060           1           0    3060562 mm 
+
+NODE 0;CONTEXT 0;THREAD 2:
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0           13        3,058           1           1    3058812 .TAU application
+ 99.6        0.022        3,045           1           1    3045774 [PTHREAD] worker 
+ 99.6        0.003        3,045           1           1    3045752 worker 
+ 99.6        3,045        3,045           1           0    3045749 mm 
+
+NODE 0;CONTEXT 0;THREAD 3:
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0           21        3,069           1           1    3069331 .TAU application
+ 99.3            7        3,047           1           1    3047379 [PTHREAD] worker 
+ 99.0        0.001        3,040           1           1    3040021 worker 
+ 99.0        3,040        3,040           1           0    3040020 mm 
+
+NODE 0;CONTEXT 0;THREAD 4:
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0           28        3,074           1           1    3074219 .TAU application
+ 99.1            6        3,045           1           1    3045320 [PTHREAD] worker 
+ 98.9        0.002        3,039           1           1    3039085 worker 
+ 98.9        3,039        3,039           1           0    3039083 mm 
+
+FUNCTION SUMMARY (total):
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0           79       18,352           5           5    3670593 .TAU application
+ 66.5           19       12,204           4           4    3051223 [PTHREAD] worker 
+ 66.4        0.015       12,185           4           4    3046357 worker 
+ 66.4       12,185       12,185           4           0    3046354 mm 
+ 33.1            6        6,069           1           9    6069051 main 
+ 16.8        3,077        3,077           4           0     769371 pthread_join
+ 16.3        2,984        2,984           1           0    2984842 check_matrix 
+  0.0        0.165        0.165           4           0         41 pthread_create
+
+FUNCTION SUMMARY (mean):
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0           15        3,670           1           1    3670593 .TAU application
+ 66.5            3        2,440         0.8         0.8    3051223 [PTHREAD] worker 
+ 66.4        0.003        2,437         0.8         0.8    3046357 worker 
+ 66.4        2,437        2,437         0.8           0    3046353 mm 
+ 33.1            1        1,213         0.2         1.8    6069051 main 
+ 16.8          615          615         0.8           0     769371 pthread_join
+ 16.3          596          596         0.2           0    2984842 check_matrix 
+  0.0        0.033        0.033         0.8           0         41 pthread_create
