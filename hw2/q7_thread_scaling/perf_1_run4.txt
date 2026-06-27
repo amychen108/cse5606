@@ -1,0 +1,20 @@
+# started on Sat Jun 27 14:13:47 2026
+
+
+ Performance counter stats for './p_matrix_para 1':
+
+          2,133.41 msec task-clock:HGu                   #    0.999 CPUs utilized             
+                 0      context-switches:HGu             #    0.000 /sec                      
+                 0      cpu-migrations:HGu               #    0.000 /sec                      
+             1,566      page-faults:HGu                  #  734.037 /sec                      
+     6,739,178,393      cycles:HGu                       #    3.159 GHz                       
+    14,025,233,136      instructions:HGu                 #    2.08  insn per cycle            
+     2,005,056,017      branches:HGu                     #  939.837 M/sec                     
+         2,005,910      branch-misses:HGu                #    0.10% of all branches           
+
+       2.136033891 seconds time elapsed
+
+       2.115822000 seconds user
+       0.010795000 seconds sys
+
+

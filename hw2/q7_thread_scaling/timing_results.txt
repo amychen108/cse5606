@@ -1,0 +1,55 @@
+=== Threads: 1 ===
+perf_1_run10.txt:       2.145112982 seconds time elapsed
+perf_1_run1.txt:       2.166363637 seconds time elapsed
+perf_1_run2.txt:       2.137320407 seconds time elapsed
+perf_1_run3.txt:       2.137104969 seconds time elapsed
+perf_1_run4.txt:       2.136033891 seconds time elapsed
+perf_1_run5.txt:       2.136316839 seconds time elapsed
+perf_1_run6.txt:       2.136682830 seconds time elapsed
+perf_1_run7.txt:       2.136586814 seconds time elapsed
+perf_1_run8.txt:       2.135900877 seconds time elapsed
+perf_1_run9.txt:       2.134204866 seconds time elapsed
+=== Threads: 2 ===
+perf_2_run10.txt:       2.137317132 seconds time elapsed
+perf_2_run1.txt:       2.135282940 seconds time elapsed
+perf_2_run2.txt:       2.140628761 seconds time elapsed
+perf_2_run3.txt:       2.136579890 seconds time elapsed
+perf_2_run4.txt:       2.139909867 seconds time elapsed
+perf_2_run5.txt:       2.136463903 seconds time elapsed
+perf_2_run6.txt:       2.137386070 seconds time elapsed
+perf_2_run7.txt:       2.136476567 seconds time elapsed
+perf_2_run8.txt:       2.136888441 seconds time elapsed
+perf_2_run9.txt:       2.136461186 seconds time elapsed
+=== Threads: 4 ===
+perf_4_run10.txt:       2.136634836 seconds time elapsed
+perf_4_run1.txt:       2.140867361 seconds time elapsed
+perf_4_run2.txt:       2.136727455 seconds time elapsed
+perf_4_run3.txt:       2.136638863 seconds time elapsed
+perf_4_run4.txt:       2.136898792 seconds time elapsed
+perf_4_run5.txt:       2.134789043 seconds time elapsed
+perf_4_run6.txt:       2.137726918 seconds time elapsed
+perf_4_run7.txt:       2.136114568 seconds time elapsed
+perf_4_run8.txt:       2.137727005 seconds time elapsed
+perf_4_run9.txt:       2.136513409 seconds time elapsed
+=== Threads: 8 ===
+perf_8_run10.txt:       2.146759173 seconds time elapsed
+perf_8_run1.txt:       2.137569542 seconds time elapsed
+perf_8_run2.txt:       2.136288083 seconds time elapsed
+perf_8_run3.txt:       2.136858943 seconds time elapsed
+perf_8_run4.txt:       2.137010096 seconds time elapsed
+perf_8_run5.txt:       2.136182960 seconds time elapsed
+perf_8_run6.txt:       2.136883473 seconds time elapsed
+perf_8_run7.txt:       2.135158451 seconds time elapsed
+perf_8_run8.txt:       2.168383149 seconds time elapsed
+perf_8_run9.txt:       2.161440835 seconds time elapsed
+=== Threads: 16 ===
+perf_16_run10.txt:       2.149397255 seconds time elapsed
+perf_16_run1.txt:       2.151422670 seconds time elapsed
+perf_16_run2.txt:       2.148797844 seconds time elapsed
+perf_16_run3.txt:       2.158623910 seconds time elapsed
+perf_16_run4.txt:       2.150430094 seconds time elapsed
+perf_16_run5.txt:       2.147214639 seconds time elapsed
+perf_16_run6.txt:       2.147945065 seconds time elapsed
+perf_16_run7.txt:       2.149902352 seconds time elapsed
+perf_16_run8.txt:       2.147829592 seconds time elapsed
+perf_16_run9.txt:       2.153240249 seconds time elapsed
