@@ -1,0 +1,20 @@
+# started on Sat Jun 27 14:20:56 2026
+
+
+ Performance counter stats for './p_matrix_para_O3 4':
+
+          2,135.81 msec task-clock:HGu                   #    0.999 CPUs utilized             
+                 0      context-switches:HGu             #    0.000 /sec                      
+                 0      cpu-migrations:HGu               #    0.000 /sec                      
+               816      page-faults:HGu                  #  382.057 /sec                      
+     6,708,953,128      cycles:HGu                       #    3.141 GHz                       
+    10,534,495,983      instructions:HGu                 #    1.57  insn per cycle            
+     1,008,303,192      branches:HGu                     #  472.094 M/sec                     
+         2,006,287      branch-misses:HGu                #    0.20% of all branches           
+
+       2.138495013 seconds time elapsed
+
+       2.123484000 seconds user
+       0.006917000 seconds sys
+
+

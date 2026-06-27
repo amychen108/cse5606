@@ -1,0 +1,44 @@
+=== O0 ===
+perf_O0_run10.txt:       6.056266469 seconds time elapsed
+perf_O0_run1.txt:       6.088049118 seconds time elapsed
+perf_O0_run2.txt:       6.034688309 seconds time elapsed
+perf_O0_run3.txt:       6.036471550 seconds time elapsed
+perf_O0_run4.txt:       6.038658827 seconds time elapsed
+perf_O0_run5.txt:       6.061561090 seconds time elapsed
+perf_O0_run6.txt:       6.060032811 seconds time elapsed
+perf_O0_run7.txt:       6.066698414 seconds time elapsed
+perf_O0_run8.txt:       6.075182423 seconds time elapsed
+perf_O0_run9.txt:       6.048781719 seconds time elapsed
+=== O1 ===
+perf_O1_run10.txt:       2.150008135 seconds time elapsed
+perf_O1_run1.txt:       2.148873101 seconds time elapsed
+perf_O1_run2.txt:       2.147319435 seconds time elapsed
+perf_O1_run3.txt:       2.151031638 seconds time elapsed
+perf_O1_run4.txt:       2.142610379 seconds time elapsed
+perf_O1_run5.txt:       2.150914214 seconds time elapsed
+perf_O1_run6.txt:       2.145784747 seconds time elapsed
+perf_O1_run7.txt:       2.149831469 seconds time elapsed
+perf_O1_run8.txt:       2.151295907 seconds time elapsed
+perf_O1_run9.txt:       2.148181245 seconds time elapsed
+=== O2 ===
+perf_O2_run10.txt:       2.143352926 seconds time elapsed
+perf_O2_run1.txt:       2.166012671 seconds time elapsed
+perf_O2_run2.txt:       2.141367912 seconds time elapsed
+perf_O2_run3.txt:       2.140766821 seconds time elapsed
+perf_O2_run4.txt:       2.140484275 seconds time elapsed
+perf_O2_run5.txt:       2.137158461 seconds time elapsed
+perf_O2_run6.txt:       2.139194225 seconds time elapsed
+perf_O2_run7.txt:       2.138480655 seconds time elapsed
+perf_O2_run8.txt:       2.138336910 seconds time elapsed
+perf_O2_run9.txt:       2.139585756 seconds time elapsed
+=== O3 ===
+perf_O3_run10.txt:       2.140564252 seconds time elapsed
+perf_O3_run1.txt:       2.144831863 seconds time elapsed
+perf_O3_run2.txt:       2.127048502 seconds time elapsed
+perf_O3_run3.txt:       2.136889329 seconds time elapsed
+perf_O3_run4.txt:       2.134812224 seconds time elapsed
+perf_O3_run5.txt:       2.138495013 seconds time elapsed
+perf_O3_run6.txt:       2.135133415 seconds time elapsed
+perf_O3_run7.txt:       2.128756826 seconds time elapsed
+perf_O3_run8.txt:       2.132288636 seconds time elapsed
+perf_O3_run9.txt:       2.135371228 seconds time elapsed
