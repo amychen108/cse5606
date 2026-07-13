@@ -1,4 +1,44 @@
 === O0 ===
+output_O0_run10.txt:  Wallclock time = 45.433730
+output_O0_run1.txt:  Wallclock time = 45.614458
+output_O0_run2.txt:  Wallclock time = 45.533479
+output_O0_run3.txt:  Wallclock time = 45.571215
+output_O0_run4.txt:  Wallclock time = 45.379411
+output_O0_run5.txt:  Wallclock time = 45.910452
+output_O0_run6.txt:  Wallclock time = 45.474909
+output_O0_run7.txt:  Wallclock time = 45.511109
+output_O0_run8.txt:  Wallclock time = 45.449967
+output_O0_run9.txt:  Wallclock time = 45.656487
 === O1 ===
+output_O1_run10.txt:  Wallclock time = 19.297441
+output_O1_run1.txt:  Wallclock time = 19.372569
+output_O1_run2.txt:  Wallclock time = 19.316875
+output_O1_run3.txt:  Wallclock time = 19.453329
+output_O1_run4.txt:  Wallclock time = 19.370025
+output_O1_run5.txt:  Wallclock time = 19.345993
+output_O1_run6.txt:  Wallclock time = 19.334961
+output_O1_run7.txt:  Wallclock time = 19.267008
+output_O1_run8.txt:  Wallclock time = 19.361581
+output_O1_run9.txt:  Wallclock time = 19.351052
 === O2 ===
+output_O2_run10.txt:  Wallclock time = 11.290765
+output_O2_run1.txt:  Wallclock time = 11.290446
+output_O2_run2.txt:  Wallclock time = 11.299348
+output_O2_run3.txt:  Wallclock time = 11.265377
+output_O2_run4.txt:  Wallclock time = 11.294659
+output_O2_run5.txt:  Wallclock time = 11.298600
+output_O2_run6.txt:  Wallclock time = 11.294747
+output_O2_run7.txt:  Wallclock time = 11.268750
+output_O2_run8.txt:  Wallclock time = 11.278484
+output_O2_run9.txt:  Wallclock time = 11.306568
 === O3 ===
+output_O3_run10.txt:  Wallclock time = 9.768688
+output_O3_run1.txt:  Wallclock time = 9.770607
+output_O3_run2.txt:  Wallclock time = 9.759864
+output_O3_run3.txt:  Wallclock time = 9.761498
+output_O3_run4.txt:  Wallclock time = 9.755058
+output_O3_run5.txt:  Wallclock time = 9.756973
+output_O3_run6.txt:  Wallclock time = 9.776395
+output_O3_run7.txt:  Wallclock time = 9.751954
+output_O3_run8.txt:  Wallclock time = 9.761302
+output_O3_run9.txt:  Wallclock time = 9.772777
