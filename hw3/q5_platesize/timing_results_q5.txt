@@ -1,0 +1,55 @@
+=== Size 128 ===
+output_128_run10.txt:  Wallclock time = 0.284596
+output_128_run1.txt:  Wallclock time = 0.291156
+output_128_run2.txt:  Wallclock time = 0.284329
+output_128_run3.txt:  Wallclock time = 0.287015
+output_128_run4.txt:  Wallclock time = 0.296363
+output_128_run5.txt:  Wallclock time = 0.285360
+output_128_run6.txt:  Wallclock time = 0.316566
+output_128_run7.txt:  Wallclock time = 0.285827
+output_128_run8.txt:  Wallclock time = 0.285954
+output_128_run9.txt:  Wallclock time = 0.285320
+=== Size 256 ===
+output_256_run10.txt:  Wallclock time = 2.195296
+output_256_run1.txt:  Wallclock time = 2.127190
+output_256_run2.txt:  Wallclock time = 2.051504
+output_256_run3.txt:  Wallclock time = 2.056611
+output_256_run4.txt:  Wallclock time = 2.089758
+output_256_run5.txt:  Wallclock time = 2.129284
+output_256_run6.txt:  Wallclock time = 2.122202
+output_256_run7.txt:  Wallclock time = 2.050867
+output_256_run8.txt:  Wallclock time = 2.054424
+output_256_run9.txt:  Wallclock time = 2.055585
+=== Size 500 ===
+output_500_run10.txt:  Wallclock time = 11.344102
+output_500_run1.txt:  Wallclock time = 11.343584
+output_500_run2.txt:  Wallclock time = 11.309567
+output_500_run3.txt:  Wallclock time = 11.246864
+output_500_run4.txt:  Wallclock time = 11.292160
+output_500_run5.txt:  Wallclock time = 11.259700
+output_500_run6.txt:  Wallclock time = 11.287215
+output_500_run7.txt:  Wallclock time = 11.296182
+output_500_run8.txt:  Wallclock time = 11.308550
+output_500_run9.txt:  Wallclock time = 11.334605
+=== Size 512 ===
+output_512_run10.txt:  Wallclock time = 12.465583
+output_512_run1.txt:  Wallclock time = 12.509534
+output_512_run2.txt:  Wallclock time = 12.547001
+output_512_run3.txt:  Wallclock time = 12.454520
+output_512_run4.txt:  Wallclock time = 12.612777
+output_512_run5.txt:  Wallclock time = 12.441080
+output_512_run6.txt:  Wallclock time = 12.440936
+output_512_run7.txt:  Wallclock time = 12.463273
+output_512_run8.txt:  Wallclock time = 12.573142
+output_512_run9.txt:  Wallclock time = 12.600442
+=== Size 700 ===
+output_700_run10.txt:  Wallclock time = 22.892077
+output_700_run1.txt:  Wallclock time = 22.851292
+output_700_run2.txt:  Wallclock time = 22.852703
+output_700_run3.txt:  Wallclock time = 22.910322
+output_700_run4.txt:  Wallclock time = 23.009672
+output_700_run5.txt:  Wallclock time = 22.885343
+output_700_run6.txt:  Wallclock time = 22.908977
+output_700_run7.txt:  Wallclock time = 22.920170
+output_700_run8.txt:  Wallclock time = 22.887284
+output_700_run9.txt:  Wallclock time = 23.004791

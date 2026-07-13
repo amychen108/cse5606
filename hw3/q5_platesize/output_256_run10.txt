@@ -1,0 +1,37 @@
+
+HEATED_PLATE_OPEN_MP
+  C/OpenMP version
+  A program to solve for the steady state temperature distribution
+  over a rectangular plate.
+
+  Spatial grid of 256 by 256 points.
+  The iteration will be repeated until the change is <= 1.000000e-03
+  Number of processors available = 1
+  Number of threads =              2
+
+  MEAN = 74.901961
+
+ Iteration  Change
+
+         1  18.725490
+         2  9.362745
+         4  4.096201
+         8  2.288112
+        16  1.135877
+        32  0.567838
+        64  0.282624
+       128  0.141686
+       256  0.070763
+       512  0.035404
+      1024  0.017696
+      2048  0.008839
+      4096  0.004205
+      8192  0.001535
+
+     10181  0.001000
+
+  Error tolerance achieved.
+  Wallclock time = 2.195296
+
+HEATED_PLATE_OPEN_MP:
+  Normal end of execution.

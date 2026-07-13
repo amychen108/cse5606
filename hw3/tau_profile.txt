@@ -1,0 +1,9 @@
+Reading Profile files in profile.*
+
+NODE 0;CONTEXT 0;THREAD 0:
+---------------------------------------------------------------------------------------
+%Time    Exclusive    Inclusive       #Call      #Subrs  Inclusive Name
+              msec   total msec                          usec/call 
+---------------------------------------------------------------------------------------
+100.0           35       52,459           1           1   52459598 .TAU application
+ 99.9       52,423       52,423           1           0   52423896 main 
