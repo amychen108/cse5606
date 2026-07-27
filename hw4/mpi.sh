@@ -11,5 +11,5 @@
 
 echo "Running on host: $(hostname)"
 module add mpi/mpich-x86_64
-cd /home/cyue/cse5606/hw4
+cd /home/compute/cyue/cse5606/hw4
 mpirun ./Nbody 512 200.0 1000 0
