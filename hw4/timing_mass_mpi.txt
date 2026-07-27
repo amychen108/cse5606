@@ -1,0 +1,56 @@
+=== Starmass MPI results (10 runs each) ===
+Mass: 50
+q1_mass_mpi/output_mass_50_run10.txt:Elapsed wall clock time (seconds) 0.264884
+q1_mass_mpi/output_mass_50_run1.txt:Elapsed wall clock time (seconds) 0.261891
+q1_mass_mpi/output_mass_50_run2.txt:Elapsed wall clock time (seconds) 0.263960
+q1_mass_mpi/output_mass_50_run3.txt:Elapsed wall clock time (seconds) 0.269799
+q1_mass_mpi/output_mass_50_run4.txt:Elapsed wall clock time (seconds) 0.263802
+q1_mass_mpi/output_mass_50_run5.txt:Elapsed wall clock time (seconds) 0.263271
+q1_mass_mpi/output_mass_50_run6.txt:Elapsed wall clock time (seconds) 0.263172
+q1_mass_mpi/output_mass_50_run7.txt:Elapsed wall clock time (seconds) 0.264142
+q1_mass_mpi/output_mass_50_run8.txt:Elapsed wall clock time (seconds) 0.268868
+q1_mass_mpi/output_mass_50_run9.txt:Elapsed wall clock time (seconds) 0.269216
+Mass: 100
+q1_mass_mpi/output_mass_100_run10.txt:Elapsed wall clock time (seconds) 0.268736
+q1_mass_mpi/output_mass_100_run1.txt:Elapsed wall clock time (seconds) 0.266914
+q1_mass_mpi/output_mass_100_run2.txt:Elapsed wall clock time (seconds) 0.265688
+q1_mass_mpi/output_mass_100_run3.txt:Elapsed wall clock time (seconds) 0.266341
+q1_mass_mpi/output_mass_100_run4.txt:Elapsed wall clock time (seconds) 0.264759
+q1_mass_mpi/output_mass_100_run5.txt:Elapsed wall clock time (seconds) 0.264678
+q1_mass_mpi/output_mass_100_run6.txt:Elapsed wall clock time (seconds) 0.263118
+q1_mass_mpi/output_mass_100_run7.txt:Elapsed wall clock time (seconds) 0.263100
+q1_mass_mpi/output_mass_100_run8.txt:Elapsed wall clock time (seconds) 0.264653
+q1_mass_mpi/output_mass_100_run9.txt:Elapsed wall clock time (seconds) 0.261265
+Mass: 200
+q1_mass_mpi/output_mass_200_run10.txt:Elapsed wall clock time (seconds) 0.266724
+q1_mass_mpi/output_mass_200_run1.txt:Elapsed wall clock time (seconds) 0.260771
+q1_mass_mpi/output_mass_200_run2.txt:Elapsed wall clock time (seconds) 0.266576
+q1_mass_mpi/output_mass_200_run3.txt:Elapsed wall clock time (seconds) 0.262539
+q1_mass_mpi/output_mass_200_run4.txt:Elapsed wall clock time (seconds) 0.264480
+q1_mass_mpi/output_mass_200_run5.txt:Elapsed wall clock time (seconds) 0.261439
+q1_mass_mpi/output_mass_200_run6.txt:Elapsed wall clock time (seconds) 0.266578
+q1_mass_mpi/output_mass_200_run7.txt:Elapsed wall clock time (seconds) 0.261630
+q1_mass_mpi/output_mass_200_run8.txt:Elapsed wall clock time (seconds) 0.266547
+q1_mass_mpi/output_mass_200_run9.txt:Elapsed wall clock time (seconds) 0.263060
+Mass: 500
+q1_mass_mpi/output_mass_500_run10.txt:Elapsed wall clock time (seconds) 0.264259
+q1_mass_mpi/output_mass_500_run1.txt:Elapsed wall clock time (seconds) 0.260224
+q1_mass_mpi/output_mass_500_run2.txt:Elapsed wall clock time (seconds) 0.267557
+q1_mass_mpi/output_mass_500_run3.txt:Elapsed wall clock time (seconds) 0.263284
+q1_mass_mpi/output_mass_500_run4.txt:Elapsed wall clock time (seconds) 0.264535
+q1_mass_mpi/output_mass_500_run5.txt:Elapsed wall clock time (seconds) 0.265260
+q1_mass_mpi/output_mass_500_run6.txt:Elapsed wall clock time (seconds) 0.268582
+q1_mass_mpi/output_mass_500_run7.txt:Elapsed wall clock time (seconds) 0.261723
+q1_mass_mpi/output_mass_500_run8.txt:Elapsed wall clock time (seconds) 0.266874
+q1_mass_mpi/output_mass_500_run9.txt:Elapsed wall clock time (seconds) 0.266721
+Mass: 1000
+q1_mass_mpi/output_mass_1000_run10.txt:Elapsed wall clock time (seconds) 0.266585
+q1_mass_mpi/output_mass_1000_run1.txt:Elapsed wall clock time (seconds) 0.270480
+q1_mass_mpi/output_mass_1000_run2.txt:Elapsed wall clock time (seconds) 0.264630
+q1_mass_mpi/output_mass_1000_run3.txt:Elapsed wall clock time (seconds) 0.268874
+q1_mass_mpi/output_mass_1000_run4.txt:Elapsed wall clock time (seconds) 0.264699
+q1_mass_mpi/output_mass_1000_run5.txt:Elapsed wall clock time (seconds) 0.266746
+q1_mass_mpi/output_mass_1000_run6.txt:Elapsed wall clock time (seconds) 0.265390
+q1_mass_mpi/output_mass_1000_run7.txt:Elapsed wall clock time (seconds) 0.264089
+q1_mass_mpi/output_mass_1000_run8.txt:Elapsed wall clock time (seconds) 0.269073
+q1_mass_mpi/output_mass_1000_run9.txt:Elapsed wall clock time (seconds) 0.266561

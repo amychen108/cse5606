@@ -1,0 +1,56 @@
+=== Numstars results (10 runs each) ===
+Stars: 128
+output_128_run10.txt:Elapsed wall clock time (seconds) 0.022338
+output_128_run1.txt:Elapsed wall clock time (seconds) 0.034160
+output_128_run2.txt:Elapsed wall clock time (seconds) 0.025381
+output_128_run3.txt:Elapsed wall clock time (seconds) 0.023374
+output_128_run4.txt:Elapsed wall clock time (seconds) 0.031156
+output_128_run5.txt:Elapsed wall clock time (seconds) 0.022867
+output_128_run6.txt:Elapsed wall clock time (seconds) 0.024857
+output_128_run7.txt:Elapsed wall clock time (seconds) 0.023741
+output_128_run8.txt:Elapsed wall clock time (seconds) 0.024860
+output_128_run9.txt:Elapsed wall clock time (seconds) 0.022556
+Stars: 256
+output_256_run10.txt:Elapsed wall clock time (seconds) 0.091907
+output_256_run1.txt:Elapsed wall clock time (seconds) 0.088924
+output_256_run2.txt:Elapsed wall clock time (seconds) 0.092769
+output_256_run3.txt:Elapsed wall clock time (seconds) 0.091278
+output_256_run4.txt:Elapsed wall clock time (seconds) 0.091609
+output_256_run5.txt:Elapsed wall clock time (seconds) 0.091683
+output_256_run6.txt:Elapsed wall clock time (seconds) 0.090920
+output_256_run7.txt:Elapsed wall clock time (seconds) 0.091412
+output_256_run8.txt:Elapsed wall clock time (seconds) 0.090948
+output_256_run9.txt:Elapsed wall clock time (seconds) 0.092604
+Stars: 512
+output_512_run10.txt:Elapsed wall clock time (seconds) 0.363923
+output_512_run1.txt:Elapsed wall clock time (seconds) 0.345824
+output_512_run2.txt:Elapsed wall clock time (seconds) 0.346954
+output_512_run3.txt:Elapsed wall clock time (seconds) 0.346936
+output_512_run4.txt:Elapsed wall clock time (seconds) 0.347104
+output_512_run5.txt:Elapsed wall clock time (seconds) 0.350036
+output_512_run6.txt:Elapsed wall clock time (seconds) 0.346512
+output_512_run7.txt:Elapsed wall clock time (seconds) 0.347309
+output_512_run8.txt:Elapsed wall clock time (seconds) 0.348375
+output_512_run9.txt:Elapsed wall clock time (seconds) 0.348019
+Stars: 1024
+output_1024_run10.txt:Elapsed wall clock time (seconds) 1.374297
+output_1024_run1.txt:Elapsed wall clock time (seconds) 1.415904
+output_1024_run2.txt:Elapsed wall clock time (seconds) 1.361797
+output_1024_run3.txt:Elapsed wall clock time (seconds) 1.358015
+output_1024_run4.txt:Elapsed wall clock time (seconds) 1.416972
+output_1024_run5.txt:Elapsed wall clock time (seconds) 1.358308
+output_1024_run6.txt:Elapsed wall clock time (seconds) 1.399305
+output_1024_run7.txt:Elapsed wall clock time (seconds) 1.439958
+output_1024_run8.txt:Elapsed wall clock time (seconds) 1.450084
+output_1024_run9.txt:Elapsed wall clock time (seconds) 1.355159
+Stars: 2048
+output_2048_run10.txt:Elapsed wall clock time (seconds) 5.808014
+output_2048_run1.txt:Elapsed wall clock time (seconds) 5.768366
+output_2048_run2.txt:Elapsed wall clock time (seconds) 5.660232
+output_2048_run3.txt:Elapsed wall clock time (seconds) 5.412107
+output_2048_run4.txt:Elapsed wall clock time (seconds) 5.410530
+output_2048_run5.txt:Elapsed wall clock time (seconds) 5.492501
+output_2048_run6.txt:Elapsed wall clock time (seconds) 5.405051
+output_2048_run7.txt:Elapsed wall clock time (seconds) 5.425964
+output_2048_run8.txt:Elapsed wall clock time (seconds) 5.432049
+output_2048_run9.txt:Elapsed wall clock time (seconds) 5.772645

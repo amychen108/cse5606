@@ -1,0 +1,56 @@
+=== Numstars MPI results (10 runs each) ===
+Stars: 128
+q1_stars_mpi/output_128_run10.txt:Elapsed wall clock time (seconds) 0.017805
+q1_stars_mpi/output_128_run1.txt:Elapsed wall clock time (seconds) 0.018167
+q1_stars_mpi/output_128_run2.txt:Elapsed wall clock time (seconds) 0.018026
+q1_stars_mpi/output_128_run3.txt:Elapsed wall clock time (seconds) 0.017883
+q1_stars_mpi/output_128_run4.txt:Elapsed wall clock time (seconds) 0.018198
+q1_stars_mpi/output_128_run5.txt:Elapsed wall clock time (seconds) 0.018634
+q1_stars_mpi/output_128_run6.txt:Elapsed wall clock time (seconds) 0.017820
+q1_stars_mpi/output_128_run7.txt:Elapsed wall clock time (seconds) 0.018227
+q1_stars_mpi/output_128_run8.txt:Elapsed wall clock time (seconds) 0.018221
+q1_stars_mpi/output_128_run9.txt:Elapsed wall clock time (seconds) 0.017968
+Stars: 256
+q1_stars_mpi/output_256_run10.txt:Elapsed wall clock time (seconds) 0.068622
+q1_stars_mpi/output_256_run1.txt:Elapsed wall clock time (seconds) 0.067871
+q1_stars_mpi/output_256_run2.txt:Elapsed wall clock time (seconds) 0.068569
+q1_stars_mpi/output_256_run3.txt:Elapsed wall clock time (seconds) 0.069120
+q1_stars_mpi/output_256_run4.txt:Elapsed wall clock time (seconds) 0.069083
+q1_stars_mpi/output_256_run5.txt:Elapsed wall clock time (seconds) 0.068886
+q1_stars_mpi/output_256_run6.txt:Elapsed wall clock time (seconds) 0.069689
+q1_stars_mpi/output_256_run7.txt:Elapsed wall clock time (seconds) 0.067733
+q1_stars_mpi/output_256_run8.txt:Elapsed wall clock time (seconds) 0.070010
+q1_stars_mpi/output_256_run9.txt:Elapsed wall clock time (seconds) 0.068728
+Stars: 512
+q1_stars_mpi/output_512_run10.txt:Elapsed wall clock time (seconds) 0.261766
+q1_stars_mpi/output_512_run1.txt:Elapsed wall clock time (seconds) 0.268437
+q1_stars_mpi/output_512_run2.txt:Elapsed wall clock time (seconds) 0.267525
+q1_stars_mpi/output_512_run3.txt:Elapsed wall clock time (seconds) 0.274822
+q1_stars_mpi/output_512_run4.txt:Elapsed wall clock time (seconds) 0.265897
+q1_stars_mpi/output_512_run5.txt:Elapsed wall clock time (seconds) 0.262429
+q1_stars_mpi/output_512_run6.txt:Elapsed wall clock time (seconds) 0.260205
+q1_stars_mpi/output_512_run7.txt:Elapsed wall clock time (seconds) 0.262178
+q1_stars_mpi/output_512_run8.txt:Elapsed wall clock time (seconds) 0.265605
+q1_stars_mpi/output_512_run9.txt:Elapsed wall clock time (seconds) 0.263243
+Stars: 1024
+q1_stars_mpi/output_1024_run10.txt:Elapsed wall clock time (seconds) 1.045478
+q1_stars_mpi/output_1024_run1.txt:Elapsed wall clock time (seconds) 1.039704
+q1_stars_mpi/output_1024_run2.txt:Elapsed wall clock time (seconds) 1.048999
+q1_stars_mpi/output_1024_run3.txt:Elapsed wall clock time (seconds) 1.042728
+q1_stars_mpi/output_1024_run4.txt:Elapsed wall clock time (seconds) 1.045491
+q1_stars_mpi/output_1024_run5.txt:Elapsed wall clock time (seconds) 1.048426
+q1_stars_mpi/output_1024_run6.txt:Elapsed wall clock time (seconds) 1.149153
+q1_stars_mpi/output_1024_run7.txt:Elapsed wall clock time (seconds) 1.040583
+q1_stars_mpi/output_1024_run8.txt:Elapsed wall clock time (seconds) 1.038927
+q1_stars_mpi/output_1024_run9.txt:Elapsed wall clock time (seconds) 1.042172
+Stars: 2048
+q1_stars_mpi/output_2048_run10.txt:Elapsed wall clock time (seconds) 7.726683
+q1_stars_mpi/output_2048_run1.txt:Elapsed wall clock time (seconds) 7.841759
+q1_stars_mpi/output_2048_run2.txt:Elapsed wall clock time (seconds) 7.803097
+q1_stars_mpi/output_2048_run3.txt:Elapsed wall clock time (seconds) 7.658229
+q1_stars_mpi/output_2048_run4.txt:Elapsed wall clock time (seconds) 7.662736
+q1_stars_mpi/output_2048_run5.txt:Elapsed wall clock time (seconds) 7.678557
+q1_stars_mpi/output_2048_run6.txt:Elapsed wall clock time (seconds) 7.667134
+q1_stars_mpi/output_2048_run7.txt:Elapsed wall clock time (seconds) 7.700915
+q1_stars_mpi/output_2048_run8.txt:Elapsed wall clock time (seconds) 7.723581
+q1_stars_mpi/output_2048_run9.txt:Elapsed wall clock time (seconds) 7.671726

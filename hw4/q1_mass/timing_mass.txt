@@ -1,0 +1,56 @@
+=== Starmass results (10 runs each) ===
+Mass: 50
+output_mass_50_run10.txt:Elapsed wall clock time (seconds) 0.345108
+output_mass_50_run1.txt:Elapsed wall clock time (seconds) 0.378498
+output_mass_50_run2.txt:Elapsed wall clock time (seconds) 0.362764
+output_mass_50_run3.txt:Elapsed wall clock time (seconds) 0.342205
+output_mass_50_run4.txt:Elapsed wall clock time (seconds) 0.354926
+output_mass_50_run5.txt:Elapsed wall clock time (seconds) 0.390550
+output_mass_50_run6.txt:Elapsed wall clock time (seconds) 0.509689
+output_mass_50_run7.txt:Elapsed wall clock time (seconds) 0.347119
+output_mass_50_run8.txt:Elapsed wall clock time (seconds) 0.364552
+output_mass_50_run9.txt:Elapsed wall clock time (seconds) 0.439452
+Mass: 100
+output_mass_100_run10.txt:Elapsed wall clock time (seconds) 0.351498
+output_mass_100_run1.txt:Elapsed wall clock time (seconds) 0.344955
+output_mass_100_run2.txt:Elapsed wall clock time (seconds) 0.349859
+output_mass_100_run3.txt:Elapsed wall clock time (seconds) 0.368356
+output_mass_100_run4.txt:Elapsed wall clock time (seconds) 0.353344
+output_mass_100_run5.txt:Elapsed wall clock time (seconds) 0.372198
+output_mass_100_run6.txt:Elapsed wall clock time (seconds) 0.367881
+output_mass_100_run7.txt:Elapsed wall clock time (seconds) 0.360451
+output_mass_100_run8.txt:Elapsed wall clock time (seconds) 0.349961
+output_mass_100_run9.txt:Elapsed wall clock time (seconds) 0.349821
+Mass: 200
+output_mass_200_run10.txt:Elapsed wall clock time (seconds) 0.347782
+output_mass_200_run1.txt:Elapsed wall clock time (seconds) 0.349159
+output_mass_200_run2.txt:Elapsed wall clock time (seconds) 0.377125
+output_mass_200_run3.txt:Elapsed wall clock time (seconds) 0.384116
+output_mass_200_run4.txt:Elapsed wall clock time (seconds) 0.354846
+output_mass_200_run5.txt:Elapsed wall clock time (seconds) 0.347938
+output_mass_200_run6.txt:Elapsed wall clock time (seconds) 0.347942
+output_mass_200_run7.txt:Elapsed wall clock time (seconds) 0.347714
+output_mass_200_run8.txt:Elapsed wall clock time (seconds) 0.346641
+output_mass_200_run9.txt:Elapsed wall clock time (seconds) 0.347969
+Mass: 500
+output_mass_500_run10.txt:Elapsed wall clock time (seconds) 0.348781
+output_mass_500_run1.txt:Elapsed wall clock time (seconds) 0.361123
+output_mass_500_run2.txt:Elapsed wall clock time (seconds) 0.349062
+output_mass_500_run3.txt:Elapsed wall clock time (seconds) 0.347521
+output_mass_500_run4.txt:Elapsed wall clock time (seconds) 0.347792
+output_mass_500_run5.txt:Elapsed wall clock time (seconds) 0.349592
+output_mass_500_run6.txt:Elapsed wall clock time (seconds) 0.346489
+output_mass_500_run7.txt:Elapsed wall clock time (seconds) 0.348463
+output_mass_500_run8.txt:Elapsed wall clock time (seconds) 0.347806
+output_mass_500_run9.txt:Elapsed wall clock time (seconds) 0.347821
+Mass: 1000
+output_mass_1000_run10.txt:Elapsed wall clock time (seconds) 0.352584
+output_mass_1000_run1.txt:Elapsed wall clock time (seconds) 0.346857
+output_mass_1000_run2.txt:Elapsed wall clock time (seconds) 0.347662
+output_mass_1000_run3.txt:Elapsed wall clock time (seconds) 0.346718
+output_mass_1000_run4.txt:Elapsed wall clock time (seconds) 0.346971
+output_mass_1000_run5.txt:Elapsed wall clock time (seconds) 0.348693
+output_mass_1000_run6.txt:Elapsed wall clock time (seconds) 0.362875
+output_mass_1000_run7.txt:Elapsed wall clock time (seconds) 0.348855
+output_mass_1000_run8.txt:Elapsed wall clock time (seconds) 0.351408
+output_mass_1000_run9.txt:Elapsed wall clock time (seconds) 0.354142
