@@ -1,0 +1,6 @@
+=== Q2 Scaling Results ===
+Configuration | Wallclock time
+Elapsed wall clock time (seconds) 0.262696
+Elapsed wall clock time (seconds) 0.140862
+Elapsed wall clock time (seconds) 0.259392
+Elapsed wall clock time (seconds) 0.083703
