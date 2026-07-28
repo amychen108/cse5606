@@ -1,0 +1,10 @@
+timestep_run10.txt:Elapsed wall clock time (seconds) 0.038637
+timestep_run1.txt:Elapsed wall clock time (seconds) 0.038086
+timestep_run2.txt:Elapsed wall clock time (seconds) 0.038355
+timestep_run3.txt:Elapsed wall clock time (seconds) 0.038090
+timestep_run4.txt:Elapsed wall clock time (seconds) 0.038135
+timestep_run5.txt:Elapsed wall clock time (seconds) 0.038733
+timestep_run6.txt:Elapsed wall clock time (seconds) 0.038055
+timestep_run7.txt:Elapsed wall clock time (seconds) 0.038376
+timestep_run8.txt:Elapsed wall clock time (seconds) 0.042885
+timestep_run9.txt:Elapsed wall clock time (seconds) 0.038366

@@ -1,0 +1,45 @@
+=== Q2 Scaling Results (10 runs each) ===
+Config: 2proc
+2proc_run10.txt:Elapsed wall clock time (seconds) 0.264126
+2proc_run1.txt:Elapsed wall clock time (seconds) 0.263405
+2proc_run2.txt:Elapsed wall clock time (seconds) 0.265535
+2proc_run3.txt:Elapsed wall clock time (seconds) 0.265363
+2proc_run4.txt:Elapsed wall clock time (seconds) 0.264080
+2proc_run5.txt:Elapsed wall clock time (seconds) 0.267142
+2proc_run6.txt:Elapsed wall clock time (seconds) 0.267409
+2proc_run7.txt:Elapsed wall clock time (seconds) 0.264864
+2proc_run8.txt:Elapsed wall clock time (seconds) 0.264430
+2proc_run9.txt:Elapsed wall clock time (seconds) 0.267021
+Config: 4proc
+4proc_run10.txt:Elapsed wall clock time (seconds) 0.142336
+4proc_run1.txt:Elapsed wall clock time (seconds) 0.141995
+4proc_run2.txt:Elapsed wall clock time (seconds) 0.141881
+4proc_run3.txt:Elapsed wall clock time (seconds) 0.140965
+4proc_run4.txt:Elapsed wall clock time (seconds) 0.140987
+4proc_run5.txt:Elapsed wall clock time (seconds) 0.141098
+4proc_run6.txt:Elapsed wall clock time (seconds) 0.142885
+4proc_run7.txt:Elapsed wall clock time (seconds) 0.141456
+4proc_run8.txt:Elapsed wall clock time (seconds) 0.143331
+4proc_run9.txt:Elapsed wall clock time (seconds) 0.140147
+Config: 8proc
+8proc_run10.txt:Elapsed wall clock time (seconds) 0.094959
+8proc_run1.txt:Elapsed wall clock time (seconds) 0.096023
+8proc_run2.txt:Elapsed wall clock time (seconds) 0.090955
+8proc_run3.txt:Elapsed wall clock time (seconds) 0.110437
+8proc_run4.txt:Elapsed wall clock time (seconds) 0.084226
+8proc_run5.txt:Elapsed wall clock time (seconds) 0.107008
+8proc_run6.txt:Elapsed wall clock time (seconds) 0.102879
+8proc_run7.txt:Elapsed wall clock time (seconds) 0.084207
+8proc_run8.txt:Elapsed wall clock time (seconds) 0.110963
+8proc_run9.txt:Elapsed wall clock time (seconds) 0.109483
+Config: 8p2n
+8p2n_run10.txt:Elapsed wall clock time (seconds) 0.261664
+8p2n_run1.txt:Elapsed wall clock time (seconds) 0.261480
+8p2n_run2.txt:Elapsed wall clock time (seconds) 0.256177
+8p2n_run3.txt:Elapsed wall clock time (seconds) 0.260976
+8p2n_run4.txt:Elapsed wall clock time (seconds) 0.259628
+8p2n_run5.txt:Elapsed wall clock time (seconds) 0.265504
+8p2n_run6.txt:Elapsed wall clock time (seconds) 0.264358
+8p2n_run7.txt:Elapsed wall clock time (seconds) 0.261393
+8p2n_run8.txt:Elapsed wall clock time (seconds) 0.257954
+8p2n_run9.txt:Elapsed wall clock time (seconds) 0.260309

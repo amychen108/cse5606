@@ -1,0 +1,10 @@
+opt_4proc_run10.txt:Elapsed wall clock time (seconds) 0.139734
+opt_4proc_run1.txt:Elapsed wall clock time (seconds) 0.141597
+opt_4proc_run2.txt:Elapsed wall clock time (seconds) 0.139721
+opt_4proc_run3.txt:Elapsed wall clock time (seconds) 0.140753
+opt_4proc_run4.txt:Elapsed wall clock time (seconds) 0.142942
+opt_4proc_run5.txt:Elapsed wall clock time (seconds) 0.140197
+opt_4proc_run6.txt:Elapsed wall clock time (seconds) 0.139960
+opt_4proc_run7.txt:Elapsed wall clock time (seconds) 0.139939
+opt_4proc_run8.txt:Elapsed wall clock time (seconds) 0.139625
+opt_4proc_run9.txt:Elapsed wall clock time (seconds) 0.141594
