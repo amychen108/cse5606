@@ -84,7 +84,7 @@ void run_server(int argc, char ** argv) {
     g_dynamic.init();
     g_dynamic.new_galaxy();
         
-    double t_step = 8.0;
+    double t_step = 32.0;
     
     g_dynamic.time_step = t_step;
     int count=0;
