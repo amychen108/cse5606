@@ -100,9 +100,13 @@ void derivs(int n,double time,double * x, double * der){
     for(i=0;i<number_per_cpu[0];i++){
         for(int j=0;j<g_dynamic.npoints;j++){
           if (i!=j) {
-            rad2=pow((pos.x[i]-pos.x[j]),2)+
-                pow((pos.y[i]-pos.y[j]),2)+
-                pow((pos.z[i]-pos.z[j]),2);
+            // ------------------------------------------------------
+            // REPLACED pow() calls with direct multiplication
+            // ------------------------------------------------------
+            double dx = pos.x[i] - pos.x[j];
+            double dy = pos.y[i] - pos.y[j];
+            double dz = pos.z[i] - pos.z[j];
+            rad2 = dx*dx + dy*dy + dz*dz;
             rad=sqrt(rad2);
             dcon=g_dynamic.gnorm/(rad*rad2);
             diffx=(pos.x[j]-pos.x[i])*dcon;
