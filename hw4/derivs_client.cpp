@@ -48,10 +48,9 @@ void derivs_client() {
         int ireal = g_mpi.rank*(block)+i;
         for(int j=0;j<npoints;j++){
           if (ireal!=j) {
-            double dx = x[ireal] - x[j];
-            double dy = x[npoints+ireal] - x[npoints+j];
-            double dz = x[2*npoints+ireal] - x[2*npoints+j];
-            rad2 = dx*dx + dy*dy + dz*dz;
+            rad2=pow((x[ireal]-x[j]),2)+
+                pow((x[npoints+ireal]-x[npoints+j]),2)+
+                pow((x[2*npoints+ireal]-x[2*npoints+j]),2);
             rad=sqrt(rad2);
             dcon=gnorm/(rad*rad2);
             diffx=(x[j]-x[ireal])*dcon;
